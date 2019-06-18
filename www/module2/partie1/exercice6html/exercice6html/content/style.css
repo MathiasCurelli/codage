@@ -1,0 +1,18 @@
+﻿.macouleur1{
+    background-color:blue;
+    color:black      
+}
+
+.macouleur2{
+    background-color:purple;
+    color:black
+}
+
+.macouleur3{
+    background-color:palevioletred;
+    color:black
+}
+
+.fieldset {
+    border: 2px ridge;
+}

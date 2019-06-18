@@ -1,0 +1,15 @@
+﻿<Window x:Class="Exo_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exo_5"
+        mc:Ignorable="d"
+        Title="Exo 5" Height="600" Width="800">
+    
+    <Grid>
+        <Image Source="Image/ordinateur.png"/>
+        <Image Source="Image/laManu.jpg" Margin="166,166,168,188"/>
+        <TextBlock HorizontalAlignment="Left" Margin="119,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="120" Width="547" FontSize="20" Foreground="#FF20AFF1" FontWeight="Bold"><Run FontSize="24" Text="         Avec La MANU, j'apprends à devenir "/><LineBreak/><Run FontSize="24" Text="                       un bon développeur !"/></TextBlock>
+    </Grid>
+</Window>

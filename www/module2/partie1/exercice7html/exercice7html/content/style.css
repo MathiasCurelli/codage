@@ -1,0 +1,46 @@
+﻿div{height: 50px; float: left} /* hauteur de 50, le float indique que les rectangles se caleront les uns aux autres en partant de la gauche*/
+
+#green { /* Un # pour se référer à un "ID"(sélecteur) et un . pour une "class"(sélecteur).*/
+    width: 75%;
+    background-color: #2ECC71;
+}
+#blue {
+    width: 25%;
+    background-color: #2980B9;
+}
+
+#red {
+    width: 30%;
+    background-color: #E74C3C;
+    height: 120px;
+}
+#orange {
+    width: 35%;
+    background-color: #E67E22;
+    height: 55px;
+}
+#gris {
+    width: 35%;
+    background-color: #95A5A6;
+    height: 55px;
+}
+#jaune {
+    width: 23%;
+    background-color: #F39C12;
+    height: 65px;
+}
+#turquoise {
+    width: 23%;
+    background-color: #16A085;
+    height: 65px;
+}
+#soleil {
+    width: 24%;
+    background-color: #D35400;
+    height: 65px;
+}
+#bleufonce {
+    width: 100%;
+    background-color: #2C3E50;
+    height: 130px;
+}

@@ -1,0 +1,778 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 06:42:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 06:42:13 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 50610
+2019-05-23 06:42:13 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 140
+2019-05-23 06:42:13 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 421
+2019-05-23 06:42:14 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 717
+2019-05-23 06:42:14 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 717
+2019-05-23 06:42:14 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 62
+2019-05-23 06:42:16 ::1 GET /Scripts/moment-with-locales.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 304 0 0 639
+2019-05-23 06:42:16 ::1 GET /Scripts/moment.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 304 0 0 358
+2019-05-23 06:42:16 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 2 0
+2019-05-23 06:42:29 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 9908
+2019-05-23 06:42:29 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 46
+2019-05-23 06:42:29 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 304 0 0 46
+2019-05-23 06:42:29 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 46
+2019-05-23 06:42:29 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 62
+2019-05-23 06:42:29 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 06:42:29 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 304 0 0 0
+2019-05-23 06:42:29 ::1 GET /Scripts/jquery.validate.unobtrusive.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 304 0 0 390
+2019-05-23 06:42:30 ::1 GET /Scripts/jquery.validate.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 304 0 0 998
+2019-05-23 06:42:30 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 304 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 06:48:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 06:48:56 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 1763
+2019-05-23 06:48:56 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 06:53:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 06:53:10 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 1732
+2019-05-23 06:53:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+2019-05-23 06:53:25 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 1575
+2019-05-23 06:53:25 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 06:53:25 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 06:53:25 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 06:54:11 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 302 0 0 39527
+2019-05-23 06:54:11 ::1 GET /appointments/AddAppointment idAppointment=0&dateHour=05%2F23%2F2019%2008%3A53%3A00&subject=sfd&idBroker=1&idCustomer=7 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 46
+2019-05-23 06:54:11 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/AddAppointment?idAppointment=0&dateHour=05%2F23%2F2019%2008%3A53%3A00&subject=sfd&idBroker=1&idCustomer=7 404 0 2 15
+2019-05-23 06:54:11 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/AddAppointment?idAppointment=0&dateHour=05%2F23%2F2019%2008%3A53%3A00&subject=sfd&idBroker=1&idCustomer=7 404 0 2 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 06:55:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 06:55:11 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5270
+2019-05-23 06:55:11 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 26
+2019-05-23 06:55:18 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 1205
+2019-05-23 06:55:18 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 12
+2019-05-23 06:55:18 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 16
+2019-05-23 06:55:18 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 4
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 07:03:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 07:03:34 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 8010
+2019-05-23 07:03:34 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 0
+2019-05-23 07:03:34 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 64 15
+2019-05-23 07:03:34 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 64 265
+2019-05-23 07:03:37 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 1248
+2019-05-23 07:03:37 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:03:37 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:03:37 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 07:10:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 07:10:12 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6880
+2019-05-23 07:10:12 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:10:12 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:10:12 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 46
+2019-05-23 07:10:12 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 93
+2019-05-23 07:10:12 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 31
+2019-05-23 07:10:24 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 265
+2019-05-23 07:10:24 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 07:10:24 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 07:10:35 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 187
+2019-05-23 07:10:35 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:10:35 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 07:14:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 07:14:32 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5092
+2019-05-23 07:14:32 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:14:32 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 62
+2019-05-23 07:14:32 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 124
+2019-05-23 07:14:32 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 124
+2019-05-23 07:16:13 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 546
+2019-05-23 07:16:13 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 07:16:13 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 07:17:01 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 46
+2019-05-23 07:17:01 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:17:01 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:17:01 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 07:18:12 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 93
+2019-05-23 07:18:12 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:18:12 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 07:18:35 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 34
+2019-05-23 07:18:35 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 07:18:35 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 08:13:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 08:13:01 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 13420
+2019-05-23 08:13:01 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 08:13:01 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 08:13:01 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 08:13:01 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 93
+2019-05-23 08:13:01 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 78
+2019-05-23 08:13:01 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 0
+2019-05-23 08:13:01 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 655
+2019-05-23 08:13:23 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 249
+2019-05-23 08:13:23 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 08:13:23 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 08:13:23 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 09:08:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 09:08:45 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 8055
+2019-05-23 09:08:45 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 21
+2019-05-23 09:08:45 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 62
+2019-05-23 09:08:45 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 43
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 09:11:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 09:11:40 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5763
+2019-05-23 09:11:40 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 10
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 09:14:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 09:14:35 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4306
+2019-05-23 09:14:35 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 09:14:35 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 62
+2019-05-23 09:14:38 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 156
+2019-05-23 09:14:38 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 09:21:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 09:21:26 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6669
+2019-05-23 09:21:26 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 37
+2019-05-23 09:21:26 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 55
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 09:22:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 09:22:52 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5866
+2019-05-23 09:22:52 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 09:22:52 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 10:36:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 10:36:50 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5492
+2019-05-23 10:36:50 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 62
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 10:40:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 10:40:54 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 7765
+2019-05-23 10:40:54 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 18
+2019-05-23 10:40:54 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 121
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 10:54:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 10:54:55 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5897
+2019-05-23 10:54:55 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 12
+2019-05-23 10:54:55 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 64 53
+2019-05-23 10:54:55 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 55
+2019-05-23 10:54:55 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 1
+2019-05-23 10:54:55 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 64 417
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 10:56:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 10:56:06 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6389
+2019-05-23 10:56:06 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 4
+2019-05-23 10:56:06 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 26
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 11:19:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 11:19:51 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5036
+2019-05-23 11:19:51 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 11:26:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 11:26:15 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6744
+2019-05-23 11:26:15 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 85
+2019-05-23 11:26:15 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 109
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 11:29:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 11:29:11 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3924
+2019-05-23 11:29:11 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 46
+2019-05-23 11:29:11 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 29
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 11:38:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 11:38:29 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5432
+2019-05-23 11:38:29 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 95
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 11:56:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 11:56:18 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 500 0 0 10567
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 11:57:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 11:57:39 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 9444
+2019-05-23 11:57:39 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 11:57:58 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 1139
+2019-05-23 11:57:58 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 11:57:58 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 11:58:10 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 1606
+2019-05-23 11:58:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 11:58:10 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 11:58:15 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 0
+2019-05-23 11:58:15 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 12:42:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 12:42:38 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 14365
+2019-05-23 12:42:38 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 12:42:38 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 54
+2019-05-23 12:42:38 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 2 3
+2019-05-23 12:42:38 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 550
+2019-05-23 12:42:38 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 782
+2019-05-23 12:43:20 ::1 GET /Home/Index/15 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 20
+2019-05-23 12:43:20 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 404 0 2 8
+2019-05-23 12:43:23 ::1 GET /Home/Index/15 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 200 0 0 54
+2019-05-23 12:43:23 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 404 0 2 5
+2019-05-23 12:43:24 ::1 GET /Home/Index/15 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 200 0 0 58
+2019-05-23 12:43:24 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 404 0 2 5
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 12:45:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 12:45:06 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6880
+2019-05-23 12:45:06 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 0
+2019-05-23 12:45:06 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 156
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 12:46:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 12:46:46 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 2826
+2019-05-23 12:46:46 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:01:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:01:01 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5551
+2019-05-23 13:01:01 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 11
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:04:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:04:08 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3370
+2019-05-23 13:04:08 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:06:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:06:29 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 2980
+2019-05-23 13:06:29 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:22:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:22:21 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5741
+2019-05-23 13:22:21 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:23:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:23:24 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5195
+2019-05-23 13:23:24 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 62
+2019-05-23 13:23:32 ::1 GET /Home/Index/18 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 0
+2019-05-23 13:23:32 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/18 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:24:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:24:59 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4150
+2019-05-23 13:24:59 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 46
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:28:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:28:08 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6404
+2019-05-23 13:28:08 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 9
+2019-05-23 13:28:26 ::1 GET /customers/listCustomers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 1768
+2019-05-23 13:28:26 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 404 0 2 23
+2019-05-23 13:28:28 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 200 0 0 935
+2019-05-23 13:28:28 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 19
+2019-05-23 13:28:31 ::1 GET /customers/addCustomer - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 477
+2019-05-23 13:28:31 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/addCustomer 404 0 2 12
+2019-05-23 13:28:33 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/addCustomer 200 0 0 1328
+2019-05-23 13:28:33 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 6
+2019-05-23 13:28:33 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 16
+2019-05-23 13:28:33 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 26
+2019-05-23 13:28:41 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 7
+2019-05-23 13:28:41 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 4
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:33:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:33:50 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6272
+2019-05-23 13:33:50 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 13:33:57 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 0
+2019-05-23 13:33:57 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 0
+2019-05-23 13:34:47 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 702
+2019-05-23 13:34:47 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 13:34:47 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 13:35:03 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 2620
+2019-05-23 13:35:03 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 13:35:03 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 13:35:07 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 46
+2019-05-23 13:35:07 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+2019-05-23 13:35:19 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 858
+2019-05-23 13:35:19 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 0
+2019-05-23 13:35:23 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 15
+2019-05-23 13:35:23 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+2019-05-23 13:35:35 ::1 GET /customers/listCustomers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 686
+2019-05-23 13:35:35 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 404 0 2 0
+2019-05-23 13:35:40 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 200 0 0 0
+2019-05-23 13:35:40 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 0
+2019-05-23 13:35:58 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 93
+2019-05-23 13:35:58 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:38:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:38:49 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6131
+2019-05-23 13:38:49 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 13:38:49 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 46
+2019-05-23 13:38:49 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 13:38:49 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 64 140
+2019-05-23 13:39:06 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 280
+2019-05-23 13:39:06 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 13:39:06 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 13:39:09 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 421
+2019-05-23 13:39:09 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 0
+2019-05-23 13:39:48 ::1 GET /Home/Index/15 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 31
+2019-05-23 13:39:48 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 404 0 2 15
+2019-05-23 13:39:49 ::1 GET /Scripts/moment.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 304 0 0 982
+2019-05-23 13:39:49 ::1 GET /Scripts/moment-with-locales.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 304 0 0 1029
+2019-05-23 13:39:51 ::1 GET /Home/Index/15 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 200 0 0 15
+2019-05-23 13:39:51 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index/15 404 0 2 0
+2019-05-23 13:40:27 ::1 GET /Content/bootstrap.min.css.map - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 124
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:41:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:41:58 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4525
+2019-05-23 13:41:58 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:42:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:42:44 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3857
+2019-05-23 13:42:44 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 4
+2019-05-23 13:42:52 ::1 GET /Content/bootstrap.min.css.map - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 304 0 0 25
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:44:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:44:09 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3009
+2019-05-23 13:44:09 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 13:44:13 ::1 GET /Content/bootstrap.min.css.map - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 304 0 0 31
+2019-05-23 13:47:04 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 1154
+2019-05-23 13:47:04 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 13:47:04 ::1 GET /Scripts/moment.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 68
+2019-05-23 13:47:04 ::1 GET /Scripts/moment-with-locales.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 84
+2019-05-23 13:47:04 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 844
+2019-05-23 13:47:04 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 884
+2019-05-23 13:47:04 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 5
+2019-05-23 13:47:04 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 890
+2019-05-23 13:47:05 ::1 GET /Scripts/bootstrap.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 1259
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:49:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:49:10 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5689
+2019-05-23 13:49:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 6
+2019-05-23 13:49:15 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 59
+2019-05-23 13:49:15 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 8
+2019-05-23 13:49:15 ::1 GET /Scripts/bootstrap.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 28
+2019-05-23 13:49:15 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 28
+2019-05-23 13:49:15 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 29
+2019-05-23 13:49:15 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 36
+2019-05-23 13:49:15 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 57
+2019-05-23 13:49:15 ::1 GET /Scripts/moment.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 212
+2019-05-23 13:49:15 ::1 GET /Scripts/moment-with-locales.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 304 0 0 297
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:49:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:49:52 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6289
+2019-05-23 13:49:52 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:51:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:51:11 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4293
+2019-05-23 13:51:11 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 140
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 13:53:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 13:53:27 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6538
+2019-05-23 13:53:27 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 13
+2019-05-23 13:53:47 ::1 GET /customers/listCustomers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 705
+2019-05-23 13:53:47 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 404 0 2 9
+2019-05-23 13:53:52 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 200 0 0 71
+2019-05-23 13:53:52 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 8
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:05:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:05:48 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5492
+2019-05-23 14:05:48 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 14:05:52 ::1 GET /appointments/deleteAppointment/48 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 0 265
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:07:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:07:36 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4072
+2019-05-23 14:07:36 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 14:07:38 ::1 GET /Home/deleteAppointment/48 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:10:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:10:30 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3807
+2019-05-23 14:10:30 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 0
+2019-05-23 14:10:32 ::1 GET /Home/deleteAppointment/48 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 64 156
+2019-05-23 14:10:32 ::1 GET /Home/deleteAppointment/48 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 0 156
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:15:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:15:30 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6478
+2019-05-23 14:15:30 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 31
+2019-05-23 14:15:32 ::1 GET /Home/deleteAppointment/48 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 0 46
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:20:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:20:14 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 7172
+2019-05-23 14:20:14 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 46
+2019-05-23 14:20:17 ::1 GET /Home/deleteAppointment/48 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 0 11
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:25:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:25:41 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3934
+2019-05-23 14:25:41 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 7
+2019-05-23 14:25:44 ::1 GET /Home/deleteAppointment Length=4 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 0 9
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:28:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:28:39 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5454
+2019-05-23 14:28:39 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 5
+2019-05-23 14:28:41 ::1 GET /Home/deleteAppointment Length=4 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 0 11
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 14:30:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 14:30:22 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5629
+2019-05-23 14:30:22 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 32
+2019-05-23 14:30:26 ::1 GET /Home/deleteAppointment Length=4 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 500 0 0 228
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 15:24:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 15:24:26 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5134
+2019-05-23 15:24:26 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 0
+2019-05-23 15:24:26 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 42
+2019-05-23 15:24:26 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 42
+2019-05-23 15:24:26 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 183
+2019-05-23 15:24:26 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 218
+2019-05-23 15:24:26 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 8
+2019-05-23 15:24:29 ::1 GET /Home/deleteAppointment Length=4 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 500 0 0 133
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 15:25:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 15:25:25 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 10250
+2019-05-23 15:25:25 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 15
+2019-05-23 15:25:25 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 59
+2019-05-23 15:25:25 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 90
+2019-05-23 15:25:25 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 129
+2019-05-23 15:25:25 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 7
+2019-05-23 15:25:29 ::1 GET /Home/deleteAppointment/48 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 302 0 0 517
+2019-05-23 15:25:29 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 13
+2019-05-23 15:25:29 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 24
+2019-05-23 15:25:44 ::1 GET /Home/deleteAppointment/46 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 302 0 0 109
+2019-05-23 15:25:44 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 15
+2019-05-23 15:25:44 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 46
+2019-05-23 15:25:49 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 1185
+2019-05-23 15:25:49 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 15:25:49 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 15:25:49 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 15:26:24 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 483
+2019-05-23 15:26:24 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 15:26:24 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 31
+2019-05-23 15:26:27 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 15
+2019-05-23 15:26:27 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 46
+2019-05-23 15:26:47 ::1 GET /customers/listCustomers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 938
+2019-05-23 15:26:47 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 404 0 2 0
+2019-05-23 15:26:52 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 200 0 0 780
+2019-05-23 15:26:52 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 15
+2019-05-23 15:26:56 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 15
+2019-05-23 15:26:56 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+2019-05-23 15:27:03 ::1 GET /Home/deleteAppointment/47 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 302 0 0 62
+2019-05-23 15:27:03 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 15
+2019-05-23 15:27:03 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 0
+2019-05-23 15:27:12 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 31
+2019-05-23 15:27:12 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 15:37:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 15:37:10 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 6928
+2019-05-23 15:37:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 47
+2019-05-23 15:37:10 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 75
+2019-05-23 15:37:10 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 101
+2019-05-23 15:37:10 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 101
+2019-05-23 15:37:10 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 61
+2019-05-23 15:37:10 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 2 4
+2019-05-23 15:37:17 ::1 GET /Home/deleteAppointment/45 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 302 0 0 234
+2019-05-23 15:37:17 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 15
+2019-05-23 15:37:17 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+2019-05-23 15:37:20 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 873
+2019-05-23 15:37:20 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 15:37:20 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 46
+2019-05-23 15:37:29 ::1 POST /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 202
+2019-05-23 15:37:29 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 0
+2019-05-23 15:37:29 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 15
+2019-05-23 15:37:31 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 200 0 0 0
+2019-05-23 15:37:31 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 31
+2019-05-23 15:37:39 ::1 GET /customers/listCustomers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 780
+2019-05-23 15:37:39 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 404 0 2 0
+2019-05-23 15:37:41 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 200 0 0 1216
+2019-05-23 15:37:41 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 0
+2019-05-23 15:37:45 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 15
+2019-05-23 15:37:45 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 15
+2019-05-23 15:37:45 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 31
+2019-05-23 15:37:59 ::1 GET /appointments/addAppointment/1 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 15
+2019-05-23 15:37:59 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/1 404 0 2 15
+2019-05-23 15:37:59 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/1 404 0 2 15
+2019-05-23 15:37:59 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/1 404 0 2 31
+2019-05-23 15:38:10 ::1 GET /appointments/addAppointment/5 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 15
+2019-05-23 15:38:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 404 0 2 46
+2019-05-23 15:38:10 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 404 0 2 46
+2019-05-23 15:38:10 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 404 0 2 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 15:41:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 15:41:37 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3853
+2019-05-23 15:41:37 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 43
+2019-05-23 15:41:37 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 50
+2019-05-23 15:41:37 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 98
+2019-05-23 15:41:37 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 120
+2019-05-23 15:41:37 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 11
+2019-05-23 15:41:38 ::1 GET /Scripts/bootstrap.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 923
+2019-05-23 15:41:42 ::1 GET /appointments/addAppointment/5 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 449
+2019-05-23 15:41:42 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 404 0 2 25
+2019-05-23 15:41:42 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 404 0 2 29
+2019-05-23 15:41:42 ::1 GET /Scripts/jquery.validate.unobtrusive.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 200 0 64 403
+2019-05-23 15:41:42 ::1 GET /Scripts/jquery.validate.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 200 0 64 438
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 15:42:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 15:42:24 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4010
+2019-05-23 15:42:24 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 65
+2019-05-23 15:42:24 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 77
+2019-05-23 15:42:24 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 77
+2019-05-23 15:42:24 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 78
+2019-05-23 15:42:24 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 72
+2019-05-23 15:42:24 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 13
+2019-05-23 15:42:27 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 385
+2019-05-23 15:42:27 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 67
+2019-05-23 15:42:27 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 45
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 15:48:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 15:48:10 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 8862
+2019-05-23 15:48:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 39
+2019-05-23 15:48:10 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 42
+2019-05-23 15:48:10 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 37
+2019-05-23 15:48:10 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 120
+2019-05-23 15:48:10 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 2
+2019-05-23 15:48:14 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 383
+2019-05-23 15:48:14 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 2
+2019-05-23 15:48:15 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 17
+2019-05-23 15:48:15 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 1
+2019-05-23 15:48:18 ::1 GET /appointments/addAppointment - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 215
+2019-05-23 15:48:18 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 7
+2019-05-23 15:48:18 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 7
+2019-05-23 15:48:18 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment 404 0 2 10
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 15:57:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 15:57:59 ::1 GET /Home/Index - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4259
+2019-05-23 15:57:59 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 404 0 2 34
+2019-05-23 15:57:59 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 36
+2019-05-23 15:57:59 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 63
+2019-05-23 15:57:59 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 77
+2019-05-23 15:57:59 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 64 18
+2019-05-23 15:57:59 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 2
+2019-05-23 15:58:05 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/Home/Index 200 0 0 1404
+2019-05-23 15:58:05 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 0
+2019-05-23 15:58:10 ::1 GET /brokers/addBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 62
+2019-05-23 15:58:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/addBrokers 404 0 2 0
+2019-05-23 15:58:12 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/addBrokers 200 0 0 62
+2019-05-23 15:58:12 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 0
+2019-05-23 15:58:16 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 140
+2019-05-23 15:58:16 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 0
+2019-05-23 15:58:16 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 31
+2019-05-23 15:58:23 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 200 0 0 140
+2019-05-23 15:58:23 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 31
+2019-05-23 15:58:25 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 15
+2019-05-23 15:58:25 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 15
+2019-05-23 15:58:28 ::1 GET /brokers/profilBrokers/5 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 140
+2019-05-23 15:58:28 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/profilBrokers/5 404 0 2 62
+2019-05-23 15:58:30 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/profilBrokers/5 200 0 0 0
+2019-05-23 15:58:30 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 46
+2019-05-23 15:58:32 ::1 GET /appointments/addAppointment/5 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 15
+2019-05-23 15:58:32 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 404 0 2 15
+2019-05-23 15:58:32 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 404 0 2 15
+2019-05-23 15:58:41 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/5 200 0 0 15
+2019-05-23 15:58:41 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 0
+2019-05-23 15:58:44 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 46
+2019-05-23 15:58:44 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 15
+2019-05-23 15:58:44 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 31
+2019-05-23 15:59:14 ::1 POST /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 200 0 0 140
+2019-05-23 15:59:14 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 0
+2019-05-23 15:59:14 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 0
+2019-05-23 15:59:14 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 31
+2019-05-23 15:59:25 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 200 0 0 31
+2019-05-23 15:59:25 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+2019-05-23 15:59:28 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 31
+2019-05-23 15:59:28 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15
+2019-05-23 15:59:44 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 15
+2019-05-23 15:59:44 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 31
+2019-05-23 15:59:47 ::1 GET /appointments/addAppointment/7 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 62
+2019-05-23 15:59:47 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/7 404 0 2 15
+2019-05-23 15:59:47 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/7 404 0 2 31
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 16:01:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 16:01:40 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3405
+2019-05-23 16:01:40 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 25
+2019-05-23 16:01:40 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 25
+2019-05-23 16:01:40 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 55
+2019-05-23 16:01:40 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 107
+2019-05-23 16:01:40 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 103
+2019-05-23 16:01:40 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 5
+2019-05-23 16:01:44 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 1489
+2019-05-23 16:01:44 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 3
+2019-05-23 16:01:44 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 10
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 16:05:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 16:05:08 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4509
+2019-05-23 16:05:08 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 4
+2019-05-23 16:05:08 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 53
+2019-05-23 16:05:08 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 82
+2019-05-23 16:05:08 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 87
+2019-05-23 16:05:08 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 34
+2019-05-23 16:05:08 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 2 1
+2019-05-23 16:05:11 ::1 GET /brokers/addAppointment Length=12 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 0 196
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 16:05:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 16:05:40 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 4710
+2019-05-23 16:05:40 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 68
+2019-05-23 16:05:40 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 68
+2019-05-23 16:05:40 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 90
+2019-05-23 16:05:40 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 165
+2019-05-23 16:05:40 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 2
+2019-05-23 16:05:44 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 930
+2019-05-23 16:05:44 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 1
+2019-05-23 16:05:44 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 14
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 16:07:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 16:07:29 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 8331
+2019-05-23 16:07:29 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 67
+2019-05-23 16:07:29 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 67
+2019-05-23 16:07:29 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 77
+2019-05-23 16:07:29 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 103
+2019-05-23 16:07:29 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 99
+2019-05-23 16:07:29 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 2 4
+2019-05-23 16:07:35 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 780
+2019-05-23 16:07:35 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 15
+2019-05-23 16:07:35 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 16:10:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 16:10:38 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5774
+2019-05-23 16:10:38 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 22
+2019-05-23 16:10:38 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 58
+2019-05-23 16:10:38 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 37
+2019-05-23 16:10:38 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 170
+2019-05-23 16:10:38 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 111
+2019-05-23 16:10:38 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 5
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 16:11:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 16:11:08 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 3104
+2019-05-23 16:11:08 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 22
+2019-05-23 16:11:08 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 46
+2019-05-23 16:11:08 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 46
+2019-05-23 16:11:08 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 87
+2019-05-23 16:11:08 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 51
+2019-05-23 16:11:08 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 3
+2019-05-23 16:11:11 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 1194
+2019-05-23 16:11:11 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 4
+2019-05-23 16:11:11 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 14
+2019-05-23 16:11:11 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 5
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-23 16:11:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-23 16:11:53 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 5850
+2019-05-23 16:11:53 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 95
+2019-05-23 16:11:53 ::1 GET /Scripts/javascript/JavaScript.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 95
+2019-05-23 16:11:53 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 111
+2019-05-23 16:11:53 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 150
+2019-05-23 16:11:53 ::1 GET /Content/Image/menu.png - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 64 32
+2019-05-23 16:11:53 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 64 7
+2019-05-23 16:12:01 ::1 GET /appointments/addAppointment/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 1014
+2019-05-23 16:12:01 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 0
+2019-05-23 16:12:01 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 404 0 2 31
+2019-05-23 16:12:04 ::1 GET /customers/listCustomers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/6 200 0 0 764
+2019-05-23 16:12:04 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 404 0 2 31
+2019-05-23 16:12:07 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/customers/listCustomers 200 0 0 15
+2019-05-23 16:12:07 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 15
+2019-05-23 16:12:10 ::1 GET /brokers/Delete/6 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 249
+2019-05-23 16:12:10 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/Delete/6 404 0 2 0
+2019-05-23 16:12:14 ::1 GET /brokers/listBrokers - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/Delete/6 200 0 0 15
+2019-05-23 16:12:14 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 404 0 2 0
+2019-05-23 16:12:16 ::1 GET /appointments/addAppointment/7 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/brokers/listBrokers 200 0 0 46
+2019-05-23 16:12:16 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/7 404 0 2 0
+2019-05-23 16:12:16 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/7 404 0 2 15
+2019-05-23 16:12:16 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/7 404 0 2 0
+2019-05-23 16:12:22 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/appointments/addAppointment/7 200 0 0 624
+2019-05-23 16:12:22 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 0
+2019-05-23 16:12:27 ::1 GET /Home/deleteAppointment/49 - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 302 0 0 156
+2019-05-23 16:12:27 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 15
+2019-05-23 16:12:27 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 404 0 2 15

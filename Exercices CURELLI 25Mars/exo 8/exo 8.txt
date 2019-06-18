@@ -1,0 +1,11 @@
+            double r;
+            double p;
+            double s;
+
+            Console.WriteLine("Renseigner le rayon du cercle");
+            r = double.Parse(Console.ReadLine());
+            p = 2 * Math.PI * r;
+            s = Math.PI * Math.Pow(r, 2);
+
+            Console.WriteLine("Le périmètre du cercle est : " + p);
+            Console.WriteLine("La surface du cercle est : " + s);

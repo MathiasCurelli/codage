@@ -1,0 +1,34 @@
+﻿<Page x:Class="bonagenda.addCustomer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:bonagenda"
+      mc:Ignorable="d" d:DesignHeight="450" d:DesignWidth="800"
+      Title="Ajout d'un client" Height="486.842">
+
+    <Grid Background="#FFDDE4FD" Margin="-25,0,-147,-359">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Ajouter un client" FontSize="24" FontWeight="Bold" Margin="347,10,424,787" HorizontalAlignment="Center" Grid.Column="1" Width="201" FontFamily="Arial" TextDecorations="Underline" />
+        <Label Grid.ColumnSpan="2" Content="Nom :" HorizontalAlignment="Left" Margin="44,60,0,0" VerticalAlignment="Top" Height="52" Width="99" FontSize="24" FontWeight="Bold" FontStyle="Italic" FontFamily="DejaVu Sans"/>
+        <Label Grid.ColumnSpan="2" Content="Prénom :" HorizontalAlignment="Left" Margin="44,138,0,0" VerticalAlignment="Top" Height="55" RenderTransformOrigin="0.5,0.5" Width="134" FontSize="24" FontWeight="Bold" FontStyle="Italic" FontFamily="DejaVu Sans"/>
+        <Label Grid.ColumnSpan="2" Content="Mail :" HorizontalAlignment="Left" Margin="44,218,0,0" VerticalAlignment="Top" FontSize="24" Width="82" FontWeight="Bold" FontFamily="DejaVu Sans"/>
+        <Label Grid.ColumnSpan="2" Content="Numéro de téléphone :" HorizontalAlignment="Left" Margin="44,292,0,0" VerticalAlignment="Top" FontSize="24" Width="323" FontWeight="Bold" FontStyle="Italic" FontFamily="DejaVu Sans"/>
+        <TextBox x:Name="lastname"  Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="148,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="53" Width="358" FontSize="22" Background="#FF87F4FF"/>
+        <TextBox x:Name="firstname" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="183,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="53" Width="347" FontSize="22" Background="#FF87F4FF"/>
+        <TextBox x:Name="mail" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="131,218,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="53" Width="554" FontSize="22" Background="#FF87F4FF"/>
+        <TextBox x:Name="phoneNumber" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="372,292,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="53" Width="313" FontSize="22" Background="#FF87F4FF"/>
+        <Button x:Name="Save" Content="Enregistrer" HorizontalAlignment="Left" Margin="49,438,0,0" VerticalAlignment="Top" Width="141" Height="46" FontSize="22" FontWeight="Bold" Grid.ColumnSpan="2" FontFamily="MV Boli" Click="Save_Click" BorderBrush="#FF7300FD" Background="#FF11E624"/>
+        <Button x:Name="Cancel" Grid.ColumnSpan="2" Content="Annuler" HorizontalAlignment="Left" Margin="311,438,0,0" VerticalAlignment="Top" Width="143" Height="46" FontSize="22" FontFamily="MV Boli" BorderBrush="#FFBB0303" Background="#FFE22A2A" Click="Cancel_Click"/>
+        <Label Grid.ColumnSpan="2" Content="Budget :" HorizontalAlignment="Left" Margin="49,374,0,0" VerticalAlignment="Top" FontSize="24" Width="141" FontWeight="Bold" FontStyle="Italic" FontFamily="DejaVu Sans"/>
+        <TextBox x:Name="budget" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="183,374,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="53" Width="271" FontSize="22" Background="#FF87F4FF"/>
+        <TextBlock x:Name="Name" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="535,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="35" Width="235" Foreground="Red" FontStyle="Italic"/>
+        <TextBlock x:Name="firstName" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="564,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="43" Width="235" Foreground="Red" FontStyle="Italic"/>
+        <TextBlock x:Name="Email" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="727,243,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="28" Width="198" Foreground="Red" FontStyle="Italic"/>
+        <TextBlock x:Name="Phone" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="727,302,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="43" Width="245" Foreground="Red" FontStyle="Italic"/>
+    </Grid>
+
+</Page>

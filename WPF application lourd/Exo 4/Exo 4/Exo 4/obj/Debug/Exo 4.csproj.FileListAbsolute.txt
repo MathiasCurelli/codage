@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\bin\Debug\Exo 4.exe.config
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\bin\Debug\Exo 4.exe
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\bin\Debug\Exo 4.pdb
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4_MarkupCompile.cache
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4_MarkupCompile.lref
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4.g.resources
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo_4.Properties.Resources.resources
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4.exe
+C:\Users\Dell\Documents\WPF application lourd\Exo 4\Exo 4\Exo 4\obj\Debug\Exo 4.pdb

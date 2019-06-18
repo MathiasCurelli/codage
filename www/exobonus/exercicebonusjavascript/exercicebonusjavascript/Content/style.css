@@ -1,0 +1,14 @@
+﻿.positionForm {
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    margin-top: 2%;
+    margin: -4px;
+    background-color: burlywood;
+}
+
+.backgroundImage{
+    position: absolute;
+    width: 100%;
+    text-align:center;
+}

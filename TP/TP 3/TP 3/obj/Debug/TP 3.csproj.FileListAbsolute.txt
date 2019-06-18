@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\TP\TP 3\TP 3\bin\Debug\TP 3.exe.config
+C:\Users\Dell\Documents\TP\TP 3\TP 3\bin\Debug\TP 3.exe
+C:\Users\Dell\Documents\TP\TP 3\TP 3\bin\Debug\TP 3.pdb
+C:\Users\Dell\Documents\TP\TP 3\TP 3\obj\Debug\TP 3.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\TP\TP 3\TP 3\obj\Debug\TP 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\TP\TP 3\TP 3\obj\Debug\TP 3.exe
+C:\Users\Dell\Documents\TP\TP 3\TP 3\obj\Debug\TP 3.pdb

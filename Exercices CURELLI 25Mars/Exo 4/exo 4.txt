@@ -1,0 +1,4 @@
+            string civility = "Monsieur";//Attribution d'une valeur à une variable
+            string name = "Vincent";//Attribution d'une valeur à une variable
+            int connexionNumber = 1;//Attribution d'une valeur à une variable
+            Console.WriteLine("Bonjour " + civility + " " + name + ", vous en êtes à " + connexionNumber + " visite");//affichage de la phrase avec les valeurs définies

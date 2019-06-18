@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-06-03 06:35:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-06-03 06:35:19 ::1 GET / - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 - 200 0 0 38786
+2019-06-03 06:35:19 ::1 GET /style.css - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 0 46
+2019-06-03 06:35:19 ::1 GET /Scripts/popper.min.js - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 0 93
+2019-06-03 06:35:19 ::1 GET /Scripts/bootstrap.min.js - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 0 202
+2019-06-03 06:35:19 ::1 GET /javascript.js - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 0 468
+2019-06-03 06:35:19 ::1 GET /Scripts/jquery-3.0.0.slim.js - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 0 717
+2019-06-03 06:35:20 ::1 GET /Content/style2.css - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 64 920
+2019-06-03 06:35:20 ::1 GET /Image/imagefooter2.png - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 0 78
+2019-06-03 06:35:20 ::1 GET /Image/photocv2.jpg - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 0 124
+2019-06-03 06:35:20 ::1 GET /Content/bootstrap.min.css - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/ 200 0 64 1185
+2019-06-03 06:35:20 ::1 GET /Image/imagefooter.png - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/style.css 200 0 0 156
+2019-06-03 06:35:20 ::1 GET /Image/paysagejumbotron.jpeg - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 http://localhost:53470/style.css 200 0 0 218
+2019-06-03 06:35:25 ::1 GET /Image/index.png - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 - 200 0 0 15
+2019-06-03 06:35:43 ::1 GET /favicon.ico - 53470 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:67.0)+Gecko/20100101+Firefox/67.0 - 404 0 64 62

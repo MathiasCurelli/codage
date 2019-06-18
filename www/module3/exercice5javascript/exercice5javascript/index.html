@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form>
+        <div>
+        <label for="firstNumber">Premier nombre à virgule : </label><input type="text" id="firstNumber" name="firstNumber" />
+        </div>
+        <div>
+        <label for="secondNumber">Deuxième nombre à virgule : </label><input type="text" id="secondNumber" name="secondNumber" />
+        </div>
+        <div>
+        <input type="submit" name="submit" id="submit" value="valider" onclick="number()" />
+        </div>
+    </form>
+
+
+    <script type="text/javascript">
+        function number(){
+            
+
+            var firstNumber = Math.trunc(document.getElementById("firstNumber").value); // Math.trunc élimine les chiffres apres la virgule
+            var secondNumber = (document.getElementById("secondNumber").value); // Convertir une chaine de caractere en nombre
+            
+            if (isNaN(firstNumber) || isNaN(secondNumber)){ // Si les données rentrées ne sont pas des nombres 
+                alert("Erreur de saisie")
+            }
+            else {
+                alert("Le resultat est: " + (firstNumber * secondNumber).toFixed(2)); // toFixed pour arrondir à 2 chiffres apres la virgule sur JS
+            }
+        };
+    </script>
+
+</body>
+</html>

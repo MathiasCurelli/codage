@@ -1,0 +1,11 @@
+            double AB;
+            double BC;
+            double CA;
+
+            Console.WriteLine("Soit un triangle ABC rectangle en C");
+            Console.WriteLine("Renseigner la valeur de BC");
+            BC = double.Parse(Console.ReadLine());
+            Console.WriteLine("Renseigner maintenant la valeur de CA");
+            CA = double.Parse(Console.ReadLine());
+            AB = Math.Sqrt(Math.Pow(BC, 2) + Math.Pow(CA, 2));
+            Console.WriteLine("La longueur de AB est égale à : AB² = AC² + BC², on obtient donc :  " + Math.Round(AB, 1));

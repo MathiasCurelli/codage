@@ -1,0 +1,5 @@
+            int X = 10;
+            int Y = 20;
+            int Z = 30;
+            Console.WriteLine(X + Y);
+            Console.WriteLine((X + Y) * Z);

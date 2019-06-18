@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form>
+        <div>
+        <label for="lastname">Nom : </label><input type="text" name="lastname" id="lastname" />
+        </div>
+        <div>
+        <label for="firstname">Prénom : </label><input type="text" name="firstname" id="firstname" />
+        </div>
+        <div>
+        <label for="city">Ville : </label><input type="text" name="city" id="city" />
+        </div>
+        <div><input type="submit" name="submit" id="submit" value="valider" onclick="infosUser()" /></div>
+    </form>
+
+    <script type="text/javascript">
+        function infosUser() {
+            var lastName = document.getElementById("lastname").value;
+            var firstName = document.getElementById("firstname").value; // Definir mes variables avec des valeurs qu'on enregistre
+            var city = document.getElementById("city").value;
+            var regexName = new RegExp(/^[A-Za-z\-àèìòùÀÈÌÒÙáéíóúýÁÉÍÓÚÝâêîôûÂÊÎÔÛãñõÃÑÕäëïöüÿÄËÏÖÜŸçÇßØøÅåÆæœç]*+$/) //permet de dire quels sont les caractères acceptés et autres.
+            if (regexName.test(lastName) && regexName.test(firstName) && regexName.test(city)){
+                alert("Nom: " + lastName + "\nPrénom: " + firstName + "\nVille: " + city)
+            } else {
+                alert("Erreur de saisie");
+            }                            
+        };
+    </script>
+</body>
+</html>

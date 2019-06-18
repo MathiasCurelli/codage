@@ -1,0 +1,43 @@
+﻿<Window x:Class="calculette.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculette"
+        mc:Ignorable="d"
+        Title="Calculette" Height="400" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="143*"/>
+            <ColumnDefinition Width="149*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="clear" Content="RESET" Margin="0,88,139,0" VerticalAlignment="Top" Height="32" Click="Button_Click" Background="#FFFC5F6E" FontWeight="Bold" FontSize="18" Grid.ColumnSpan="2"/>
+        <Button x:Name="div" Content="/" HorizontalAlignment="Right" Margin="0,88,69,0" VerticalAlignment="Top" Width="70" Height="32" Background="#FFB2F5F3" FontWeight="Bold" Click="Div_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="mult" Content="*" HorizontalAlignment="Left" Margin="77,88,0,0" VerticalAlignment="Top" Width="70" Height="32" Background="#FFB2F5F3" FontWeight="Bold" Click="Mult_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="minus" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="77,120,0,0" Height="52" Background="#FFB2F5F3" FontWeight="Bold" Click="Minus_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="seven" Content="7" HorizontalAlignment="Right" VerticalAlignment="Top" Width="80" Margin="-1,119,64,0" RenderTransformOrigin="0.5,0.5" Height="53" Background="#FFB2F5F3" FontWeight="Bold" Click="Seven_Click" FontSize="16">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.778"/>
+                    <RotateTransform Angle="-0.441"/>
+                    <TranslateTransform X="0.004" Y="0.509"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="nine" Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="2,120,0,0" Height="52" Background="#FFB2F5F3" FontWeight="Bold" Click="Nine_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="eight" Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="75,120,0,0" Height="52" Background="#FFB2F5F3" FontWeight="Bold" Click="Eight_Click" FontSize="16" Grid.ColumnSpan="2"/>
+        <Button x:Name="plus" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="77,172,0,0" Height="53" Background="#FFB2F5F3" FontWeight="Bold" Click="Plus_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="six" Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="2,172,0,0" Height="53" Background="#FFB2F5F3" FontWeight="Bold" Click="Six_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="five" Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="75,172,0,0" Height="53" Background="#FFB2F5F3" FontWeight="Bold" Click="Five_Click" FontSize="16" Grid.ColumnSpan="2"/>
+        <Button x:Name="four" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="0,172,0,0" Height="53" Background="#FFB2F5F3" FontWeight="Bold" Click="Four_Click" FontSize="16"/>
+        <Button x:Name="three" Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="2,225,0,0" Height="52" Background="#FFB2F5F3" FontWeight="Bold" Click="Three_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="two" Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="75,225,0,0" Height="52" Background="#FFB2F5F3" FontWeight="Bold" Click="Two_Click" FontSize="16" Grid.ColumnSpan="2"/>
+        <Button x:Name="one" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="0,225,0,0" Height="52" Background="#FFB2F5F3" FontWeight="Bold" Click="One_Click" FontSize="16"/>
+        <Button x:Name="result" Content="=" HorizontalAlignment="Left" Margin="77,225,0,0" VerticalAlignment="Top" Width="70" Height="145" FontWeight="Bold" Click="Result_Click" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="zero" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="215" Margin="0,277,0,0" Height="93" Background="#FFB2F5F3" FontWeight="Bold" Click="Button_Click_1" FontSize="16" Grid.ColumnSpan="2"/>
+        <TextBox HorizontalAlignment="Left" Height="88" TextWrapping="Wrap" VerticalAlignment="Top" Width="292" Background="#FFE1D0E4" FontSize="18" Grid.ColumnSpan="2" FlowDirection="RightToLeft"/>
+        <TextBlock x:Name="screen" HorizontalAlignment="Left" Margin="10,0,0,287" TextWrapping="Wrap" Height="35" Width="272" FontSize="18" FontWeight="Bold" VerticalAlignment="Bottom" Grid.ColumnSpan="2" TextAlignment="Right"/>
+
+    </Grid>
+</Window>

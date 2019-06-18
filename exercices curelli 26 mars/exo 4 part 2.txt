@@ -1,0 +1,13 @@
+            string login = "mathias";
+            string password = "curelli";
+            
+            Console.WriteLine("Renseigner un identifiant");
+            string SaisieLogin = Console.ReadLine();
+            Console.WriteLine("Indiquer un mot de passe");
+            String SaisiePassword = Console.ReadLine();
+
+            if (SaisieLogin == login && SaisiePassword == password)
+            { Console.WriteLine("Bienvenue à La Manu Le Havre, Mathias."); }
+
+            else 
+            { Console.WriteLine("Mauvais identifiant ou mauvais mot de passe."); } 

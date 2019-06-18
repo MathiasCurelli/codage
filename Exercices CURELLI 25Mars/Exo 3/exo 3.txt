@@ -1,0 +1,12 @@
+            int a;
+            int b;
+            Console.WriteLine("Renseigner le nombre a");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Renseigner le nombre b");
+            b = int.Parse(Console.ReadLine());
+
+            a = a + 33;
+            b = b + 1;
+
+            int result = a / b;
+            Console.WriteLine("Le resultat est " + result);

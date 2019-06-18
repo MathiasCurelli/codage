@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-04-05 07:53:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-04-05 07:53:07 ::1 GET /index.html - 63133 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 2572
+2019-04-05 07:53:07 ::1 GET /style.css - 63133 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63133/index.html 200 0 0 2
+2019-04-05 07:53:07 ::1 GET /favicon.ico - 63133 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 2 25

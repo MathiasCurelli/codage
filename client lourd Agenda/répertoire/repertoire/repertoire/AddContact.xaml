@@ -1,0 +1,24 @@
+﻿<Window x:Class="repertoire.AddContact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:repertoire"
+        mc:Ignorable="d"
+        Title="Ajout d'un contact" Height="450" Width="800">
+    <Grid Background="#FFACC1E0">
+        <TextBlock HorizontalAlignment="Left" Margin="155,97,0,0" TextWrapping="Wrap" Text="Nom: " VerticalAlignment="Top" Width="97" Height="26"/>
+        <TextBlock HorizontalAlignment="Left" Margin="155,143,0,0" TextWrapping="Wrap" Text="Prénom: " VerticalAlignment="Top" Width="97" Height="26"/>
+        <TextBlock HorizontalAlignment="Left" Margin="155,180,0,0" TextWrapping="Wrap" Text="Mail: " VerticalAlignment="Top" Width="97" Height="35"/>
+        <TextBlock HorizontalAlignment="Left" Margin="155,225,0,0" TextWrapping="Wrap" Text="Téléphone: " VerticalAlignment="Top" Width="97" Height="19"/>
+        <TextBlock HorizontalAlignment="Left" Margin="155,264,0,0" TextWrapping="Wrap" Text="Adresse: " VerticalAlignment="Top" Width="97"/>
+        <TextBlock HorizontalAlignment="Left" Margin="309,10,0,0" TextWrapping="Wrap" Text="Ajouter un contact" VerticalAlignment="Top" Height="51" Width="145" FontSize="16" FontWeight="Bold" TextDecorations="{x:Null}" FontStyle="Italic"/>
+        <TextBox x:Name="textBoxLastname"  HorizontalAlignment="Left" Height="23" Margin="309,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="296"/>
+        <TextBox x:Name="textBoxFirstname" HorizontalAlignment="Left" Height="23" Margin="309,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="296"/>
+        <TextBox x:Name="textBoxMail" HorizontalAlignment="Left" Height="23" Margin="309,180,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="296"/>
+        <TextBox x:Name="textBoxPhoneNumber" HorizontalAlignment="Left" Height="23" Margin="309,221,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="296"/>
+        <TextBox x:Name="textBoxAdress" HorizontalAlignment="Left" Height="23" Margin="309,261,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="296"/>
+        <Button x:Name="addContactBtn" Content="Ajouter" HorizontalAlignment="Left" Margin="410,323,0,0" VerticalAlignment="Top" Width="106" Height="36" FontSize="18" FontWeight="Bold" FontFamily="Raavi" Click="AddContactBtn_Click"/>
+
+    </Grid>
+</Window>

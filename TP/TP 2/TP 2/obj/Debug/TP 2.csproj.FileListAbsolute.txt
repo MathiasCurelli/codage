@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\TP\TP 2\TP 2\obj\Debug\TP 2.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\TP\TP 2\TP 2\obj\Debug\TP 2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\TP\TP 2\TP 2\bin\Debug\TP 2.exe.config
+C:\Users\Dell\Documents\TP\TP 2\TP 2\bin\Debug\TP 2.exe
+C:\Users\Dell\Documents\TP\TP 2\TP 2\bin\Debug\TP 2.pdb
+C:\Users\Dell\Documents\TP\TP 2\TP 2\obj\Debug\TP 2.exe
+C:\Users\Dell\Documents\TP\TP 2\TP 2\obj\Debug\TP 2.pdb

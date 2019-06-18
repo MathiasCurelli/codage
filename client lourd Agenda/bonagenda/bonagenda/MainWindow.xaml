@@ -1,0 +1,27 @@
+﻿<Window x:Class="bonagenda.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bonagenda"
+        mc:Ignorable="d"
+        Title="Agenda LaManu" Height="600" Width="1000">
+    <Grid Margin="0,10,0,0">
+        <Menu  Height="40" VerticalAlignment="Top" Grid.ColumnSpan="5" Background="#FFE06161">
+            <MenuItem Header="Clients" FontSize="18" FontWeight="Bold">
+                <MenuItem Header="Ajouter un client" Click="addCustomer_Click"/>
+                <MenuItem Header="Liste des clients" Click="customersList_Click"/>
+            </MenuItem>
+            <MenuItem Header="courtiers" FontSize="18" FontWeight="Bold">
+                <MenuItem Header="Ajouter un courtier" Click="addBroker_Click" />
+                <MenuItem Header="Liste des courtiers" Click="brokersList_Click" />
+            </MenuItem>
+            <MenuItem Header="Rendez-vous" FontSize="18" FontWeight="Bold">
+                <MenuItem Header="Ajouter un rendez-vous" Click="addAppointment_Click" />
+                <MenuItem Header="Liste des rendez-vous" Click="appointmentsList_Click" />
+            </MenuItem>
+        </Menu>
+        <Frame x:Name="Main" Source="customersList.xaml" HorizontalAlignment="Left" Height="515" Margin="0,45,0,0" VerticalAlignment="Top" Width="992" NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>

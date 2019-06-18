@@ -1,0 +1,6 @@
+            int a = 20;
+            Console.WriteLine(a);
+            int b = 30;
+            Console.WriteLine(b);
+            int result = a + b
+            Console.WriteLine("La somme de" + a + " et de " + b + " vaut " + result);

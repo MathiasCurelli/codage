@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-05-09 14:24:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-05-09 14:24:04 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 200 0 0 51326
+2019-05-09 14:24:04 ::1 GET /Content/Site.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 78
+2019-05-09 14:24:04 ::1 GET /Scripts/modernizr-2.6.2.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 421
+2019-05-09 14:24:05 ::1 GET /Content/bootstrap.min.css - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 1045
+2019-05-09 14:24:05 ::1 GET /Scripts/bootstrap.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 1060
+2019-05-09 14:24:05 ::1 GET /Scripts/jquery-1.10.2.min.js - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 1294
+2019-05-09 14:24:07 ::1 GET /favicon.ico - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 - 404 0 2 62
+2019-05-09 14:24:13 ::1 GET / - 63686 - ::1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:66.0)+Gecko/20100101+Firefox/66.0 http://localhost:63686/ 200 0 0 46

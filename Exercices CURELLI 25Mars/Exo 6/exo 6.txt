@@ -1,0 +1,11 @@
+            string nom = "a";
+            string prénom = "b";
+            string anniversaire = "c";
+            Console.WriteLine("Indiquer votre nom");
+            Console.WriteLine("Indiquer votre prénom");
+            Console.WriteLine("Indiquer votre année de naissance");
+            nom = Console.ReadLine();
+            prénom = Console.ReadLine();
+            anniversaire = Console.ReadLine();
+
+            Console.WriteLine("\n\n Fiche de renseignement \n\n" + nom + "\n\n" + prénom + "\n\n" + anniversaire + "\n\n" );

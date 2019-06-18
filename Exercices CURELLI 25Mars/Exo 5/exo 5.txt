@@ -1,0 +1,7 @@
+            string Nom = "a";
+            string Prenom = "b";
+            Console.WriteLine("Renseigner votre nom");
+            Console.WriteLine("Renseigner votre prénom");
+            Nom = Console.ReadLine();
+            Prenom = Console.ReadLine();
+            Console.WriteLine("Bonjour " + Nom + " " + Prenom + " ,nous sommes le " +DateTime.Now.DayOfWeek + " " + DateTime.Now.Day + "/" + DateTime.Now.Month + ","+ " comment allez-vous?");
